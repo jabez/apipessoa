@@ -1,10 +1,12 @@
 # apipessoagt
-Projeto utilizado para aplicar os conceitos aprendidos em .net
+Projeto utilizado para aplicar os conceitos aprendidos em .net.
+
+API simples para cenários em que os endpoints são basicamente CRUD's sem lógica uma complexa.
 
 ## Padrões/Tecnologias:
-* SOLID
-* ASP.NET Core 2.2
-* Entity Framework Core 2.2
-* Fluent Validation
-* AutoMapper
+* Data Driven
+* ASP.NET Core 3
+* Entity Framework Core
+* Jwt
+* Autorização e autenticação
 * Swagger
